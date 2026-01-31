@@ -77,6 +77,15 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/ts-us-e2-n2/playlist
 
 # ===== UK =====
 
+#EXTINF:-1 tvg-name="BBC News" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv13/b=2812032/main.m3u8
+
+#EXTINF:-1 tvg-name="BBC News Asia Pacific" group-title="News",BBC News Asia Pacific"
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1 tvg-name="BBC News Europe" group-title="News",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
 #EXTINF:-1 tvg-name="BBC Drama HD" group-title="News",BBC Drama HD
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 
@@ -93,7 +102,19 @@ https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
 
 #EXTINF:-1 tvg-name="Channel 4 UK HD" group-title="News",Channel 4 UK HD
-https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODg4NjQ2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jaGFubmVsNC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlYTFjM2QzMjYwYjQ4NzVkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbODRdfQ==.4Qtgxeph3f0sc1XnGErWDTXv4UiQndWwadjc8bX5mdwFLWPdXTJ0IDdp28oVEZpYCB1ICR7koq1zBXtSdycukg==/live/eds/channel4/browser-HLS8/channel4-avc1_1300000=10003.m3u8
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5OTMyMjY5Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jaGFubmVsNC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJmZGY5YzBjNWEzNTgwYzYyIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbMTAwXX0=.gt1mWqAvnxFsAHjtVd4f_UL3TOYVoeW246VP3ZM-KkWCRHB-fr5tueet2j8gIWaVfHvYxbDPjiIkiviOtllxFw==/live/eds/channel4/browser-HLS8/channel4.m3u8
+
+#EXTINF:-1 tvg-name="Channel 5 HD" group-title="News",Channel 5 HD
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5OTMyMzU0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jaGFubmVsNS9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiI0OTkxMGFlODZhOTgxNzM3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNTMiLCJzb3VyY2VzIjpbMTAwXX0=.eePfD72kru84kNujNZwUo6sj7A-NfTKAVmNc8gN07dW_5_MUR7Etz870meGjreU4QhH37mlUF6wMT5OrcrmnAQ==/live/eds/channel5/browser-HLS8/channel5.m3u8
+
+#EXTINF:-1 tvg-name="itv2" group-title="News",itv2
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5OTMyNTE3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9pdHYyL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjliNjEwNjNhZjgxYzYyNDkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjIyIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls4NF19.W9Se0dxngY16qs6zNhqvQyqg_Yma77XHf75Q6eHyn9sVnkEakVhjUExxgIhB5QTVPFb2wQUhnI6MIPJ-aZi4oQ==/live/eds/itv2/browser-HLS8/itv2.m3u8
+
+#EXTINF:-1 tvg-name="itv3" group-title="News",itv3
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5OTMyNjMwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9pdHYzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijg0MTQyZDFkYWUxYjFlYjYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjIyIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOls4NF19.ss2lipdINhyu9XrnAIH8VAAGyfXyTuVC24pV3TGx873snY1U3Hzww8OrrmDjK2V3YHAJaF2zV7eKSLA7qtaj5g==/live/eds/itv3/browser-HLS8/itv3.m3u8
+
+#EXTINF:-1 tvg-name="itv4" group-title="News",itv4
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5OTMyNjYwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9pdHY0L2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjZkMzk3YTUwMzI1N2JmODYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjIyIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls4NF19.V4bBtQWA9OQYvJG8iAKZu6CKr8s-ydvd-irJxULAPM_LAfxp90-dseddSg3YXc2PAVfUuI65cE7hE5i-SB_SdA==/live/eds/itv4/browser-HLS8/itv4.m3u8
 
 #EXTINF:-1 tvg-name="BBC Two HD" group-title="News",BBC Two HD
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
