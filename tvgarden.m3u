@@ -1,23 +1,17 @@
 #EXTM3U
 
 # ===== NEWS =====
-#EXTINF:-1 tvg-name="BBC World News" group-title="News",BBC World News
+#EXTINF:-1 tvg-name="BFMTV" group-title="News",BFMTV
+https://famelack.com/fr/su9d0YBQVTBx5Z.m3u8
+
+#EXTINF:-1 tvg-name="BFM2" group-title="News",BFM2
+https://famelack.com/fr/8sVssR2O9ofmMl.m3u8
+
+#EXTINF:-1 tvg-name="France 2 HD" group-title="News",France 2 HD
 https://famelack.com/fr/CTqOdq1UFUkl7b.m3u8
 
-#EXTINF:-1 tvg-name="France 24 English" group-title="News",France 24 (EN)
+#EXTINF:-1 tvg-name="France 3 HD" group-title="News",France 3 HD
 https://famelack.com/fr/d3QNFxEVb3AkXb.m3u8
 
-
-# ===== MOVIES =====
-#EXTINF:-1 tvg-name="Movie Channel 1" group-title="Movies",Movie Channel 1
+#EXTINF:-1 tvg-name="France 4 HD" group-title="News",France 4 HD
 https://famelack.com/fr/goLF4ATisubwrx.m3u8
-
-
-# ===== SPORTS =====
-#EXTINF:-1 tvg-name="Sports Channel 1" group-title="Sports",Sports Channel 1
-https://famelack.com/fr/xb3PPUHnsi9qW4.m3u8
-
-
-# ===== KIDS =====
-#EXTINF:-1 tvg-name="Kids Channel 1" group-title="Kids",Kids Channel 1
-https://famelack.com/fr/kUPfKpGmxXWYT4.m3u8
