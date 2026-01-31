@@ -7,6 +7,9 @@ https://tra2-xdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/
 #EXTINF:-1 tvg-name="BFM2" group-title="News",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 
+#EXTINF:-1 tvg-name="BFM Alsace" group-title="News",BFM Alsace
+https://tmp1-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njk4ODQyMzIsImlzcyI6Im1pdDEtY2RuLXNyMDAiLCJpYXQiOjE3Njk4NDEwMzIsImp0aSI6IjAwZzV2cHM0dXNza25rZTJzbDIwIiwic3ViIjoiQkZNX0FMU0FDRSIsImlwIjoiNjYuMTgzLjEwNC40NSJ9.TlblEjtI5XvAjKY1CEoifZ9JkuRgPvcImlCAZYUh0U0/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+
 #EXTINF:-1 tvg-name="France 2 HD" group-title="News",France 2 HD
 https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODgxNzAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9mcmFuY2UyaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNTE5MmIyYTQ1MTRjZDU5YyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6Wzg0XX0=.X_fjawHQs0Nu1BZ6qN1fJF2L4WIC8uivs3lIFvcK8IjKk6j2oWS5T_Bof3-KcOBgjj81bfulx58iW9W0ngFYXA==/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 
@@ -49,6 +52,9 @@ https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/p
 
 # ===== UK =====
 
+#EXTINF:-1 tvg-name="BBC Drama HD" group-title="News",BBC Drama HD
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="BBC Earth HD" group-title="News",BBC Earth HD
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 
@@ -67,6 +73,38 @@ https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiO
 #EXTINF:-1 tvg-name="BBC Two HD" group-title="News",BBC Two HD
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 
+#EXTINF:-1 tvg-name="FIFA+ HD" group-title="News",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/d0e8efb8-6648-433f-beab-4dbdfdf3dd90/1.m3u8
+
+#EXTINF:-1 tvg-name="GB News HD" group-title="News",GB News HD
+https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01076-lightning-gbnews-klowdtvus/cb573a1865736d8d84cb3f62cef545829e7b3dcb0e6c886470af4a9765d96208d6e5af87b208b7634ce6419a34567d2c0c34db66bd6c69d7df7ac7503113106d8ae9f23b85cc755ce0a3566e35b679194ffd0805c85e2b46f4c556488934be7c4534ed0a65597bcd9e01ef290f909f0b8f7b378bb3dd7f396d390ec90c1fbcbf5ba0f8ff5e43ca78a9b31d4d922d10e09f149cd24ea681d50d9e5ed47ef7128094a5d885428181c465ff02b406e039480cf13fd20eab27d4f9bb2b5fbf7026471a5494dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935e9584bf73d6bd5877db5bfa9da5b0342cc1eefe945d28782a9814511af6fefabfad5335f96fa017545c06c9247415ba6aeff46c3ab74e7d8fdd54d23e510e0e82ebdd8a7e1398e2d00ed04c7c2e6913e430155050c8552b78c68c9130c19c2db3e2e464448a19b1a91c8891e784f4e858950c01c08b180cbaad11a3ec620365beb20f66845548c653c43b478c6cd752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137596437930bb49d9aa1440806ede5c4b195006f496a412063e186c843dbb6b24e4c46fe02735f236a50fc62f166d00745055cac3fc3bc0571ff6b0225f4a832581a21d6e782c1bf94ad60b06cd8dbf22925590e3a5d52a3fff878d003f7cfc4d8a29849e8cacea37ef9e12d/79/960x540_2428800/index.m3u8
+
+# ===== SWISS =====
+
+
+#EXTINF:-1 tvg-name="RTS" group-title="News",RTS
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTS 1" group-title="News",RTS 1
+https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODkwNjc0Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydHMxaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYzdhNzJlZmEzZTdmOTA0ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTkiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjUzIiwic291cmNlcyI6WzQ4XX0=.2gvAQB9AePHgDH8e4ZhZipVY-uLW6AmpA2wTMBFxPwGELUrNMOYro_i4Fij0C1H8TP7cOw_55gJzsMTrL9v_iw==/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+
+#EXTINF:-1 tvg-name="RTS 2" group-title="News",RTS 2
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODkwNzg1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydHMyaGQvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiYmUzODlhMzg0Yzg1ZDRmYiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6Wzg0XX0=.K4ZTPJFSSG1yPpuMA84uTibvJSdlYZEyv7if8Bgoz8JST1UWNdF2V4QXUGHASHwjPcjJb-l_rafWpKuzOj9aNg==/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+
+#EXTINF:-1 tvg-name="Carac 1" group-title="News",Carac 1
+https://edge13.vedge.infomaniak.com/livecast/ik:event/chunklist_w1942892737.m3u8
+
+#EXTINF:-1 tvg-name="Carac 2" group-title="News",Carac 2
+https://edge16.vedge.infomaniak.com/livecast/ik:onefmhd/chunklist_w710560612.m3u8
+
+#EXTINF:-1 tvg-name="Carac 3" group-title="News",Carac 3
+https://edge13.vedge.infomaniak.com/livecast/lfmhd/chunklist_w299963125.m3u8
+
+#EXTINF:-1 tvg-name="Carac 4" group-title="News",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w858331473_b800000.m3u8
+
+#EXTINF:-1 tvg-name="Carac 5" group-title="News",Carac 5
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODkxMTQ1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90ZWxlc3dpenovYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiOGU0N2VmMGIxMGI4NWFkMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMTgiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6WzEwMF19.UQXuNU7IX1HcgTxLkq4FBogG2HK3VXc6yP43ApG_IDeDaQQvBtO_O0qGq3P4ORjoCfjLNtWxz-TWExuFnpSqOA==/live/eds/teleswizz/browser-HLS8/teleswizz-avc1_1299968=10007.m3u8
 
 
 
