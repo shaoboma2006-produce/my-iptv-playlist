@@ -47,4 +47,28 @@ https://live-20minutestv.digiteka.com/1961167769/tracks-v3a1/2026/01/31/05/25/19
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 
 
+# ===== UK =====
+
+#EXTINF:-1 tvg-name="BBC Earth HD" group-title="News",BBC Earth HD
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth Asia HD" group-title="News",BBC Earth Asia HD
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODg5MDk1Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9iYmMyL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjliOWM5YzQ3ZjU5N2M1YTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjIyIiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls4NF19.D7sG_Qw6oQA9nmOzgqFoLVo8MXnOHcJ67E3za_P_ZHX7lGA0Y8FvE8JZBDOBkHMIqHIDNvetXDt64AeWEqP1Iw==/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three HD" group-title="News",BBC Three HD
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+
+#EXTINF:-1 tvg-name="BBC Four HD" group-title="News",BBC Four HD
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+
+#EXTINF:-1 tvg-name="Channel 4 UK HD" group-title="News",Channel 4 UK HD
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODg4NjQ2Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9jaGFubmVsNC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJlYTFjM2QzMjYwYjQ4NzVkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4yMiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbODRdfQ==.4Qtgxeph3f0sc1XnGErWDTXv4UiQndWwadjc8bX5mdwFLWPdXTJ0IDdp28oVEZpYCB1ICR7koq1zBXtSdycukg==/live/eds/channel4/browser-HLS8/channel4-avc1_1300000=10003.m3u8
+
+#EXTINF:-1 tvg-name="BBC Two HD" group-title="News",BBC Two HD
+https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
+
+
+
+
+
 
